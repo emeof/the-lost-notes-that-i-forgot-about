@@ -42,3 +42,27 @@ to change the value ++ is adding a value and -- is getting rid of a value
 everytime you want to make a new java file you need to put Filename.java
 the first letter always needs to be capitalized
 Filenames are like proper nouns they are always capitalized
+
+how to clone: git clone the "link" 
+
+variables
+datatype name = something of data
+variables are used to store information
+example String name = "something"
+
+java is strictly typed = you always need the right data type or else it will not work
+
+these are all of the data type
+String aString = "sentances"; // things with multiple characters
+int aInt = 1; / just a number
+long aLong = 100000000; / a really really really really really big number
+double aDouble = 1.60; / a decimal number
+char = aChar = "a"; / a single letter this sucks
+boolean aBoolean = true; / a true or false
+
+numbers systems
+they always need system.out.printin(numbers);
+you can use + - * / % < > <= >=
+
+how to push go to terminal git add .
+git commit -m "say what you added"
