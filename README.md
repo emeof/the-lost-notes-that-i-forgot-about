@@ -66,3 +66,4 @@ you can use + - * / % < > <= >=
 
 how to push go to terminal git add .
 git commit -m "say what you added"
+last step git push origin main
